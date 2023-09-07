@@ -1,0 +1,31 @@
+{
+    "add_is_visible": true,
+    "category": "visual elements",
+    "default_dim": {
+        "height": 10,
+        "width": 10
+    },
+    "display": "Yes or No",
+    "fields": {
+        "AAG": {
+            "caption": "possibilities",
+            "default_val": 0.5,
+            "doc": "possibilities of true",
+            "editor": "DynamicValue",
+            "name": "possibilities",
+            "rank": 0,
+            "value": "number"
+        }
+    },
+    "icon": "ion-android-checkbox-blank",
+    "states": {
+        "AAH": {
+            "caption": "yes",
+            "initialization_code": {
+                "fn": "function(properties, context) {\n\n\n\n}"
+            },
+            "name": "yes",
+            "value": "boolean"
+        }
+    }
+}

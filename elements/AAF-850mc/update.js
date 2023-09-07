@@ -1,0 +1,1 @@
+function(instance, properties, context) {let random = Math.random() < properties.possibilities;instance.publishState("yes", random);}
