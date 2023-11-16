@@ -7,11 +7,11 @@
         "4": "analytics"
     },
     "demo_page": "https://clasic-plugins.bubbleapps.io/version-test/yes_or_no",
-    "description": "Simple Action to randomize the action of picking something.\n\nYou can set the probabilities to get yes over no.\n\nIt will set the boolean true or false, on bubble yes or no.\n\nNEED HELP BUILDING A CUSTOM APPLICATION?\nhttps://dev.zeroqode.com\n\nSUPERCHARGE YOUR APP WITH ZEROQODE PLUGINS\nhttps://zeroqode.com/plugins\n\nQUESTIONS OR NEED HELP?\nhttps://forum.zeroqode.com",
+    "description": "Simple Action to randomize the action of picking something.\n\nYou can set the probabilities to get yes over no.\n\nIt will set the boolean true or false, on bubble yes or no.\n\nTo receive special offers and important updates please visit: https://zeroqo.de/updates\n\n🔔 Get our 15 Top Plugins Bundle with 15 most popular plugins for only 20$/month.\nPlugins included in the Bundle:\n\n- Bubble Page to PDF converter\n- Stripe Marketplace Express\n- Air Calendar (Full Calendar 5.9.0)\n- AWS File uploader - Any size\n- Advanced Rich Text Editor\n- Mapbox Map\n- Phone Input Number with Formatting\n- Advanced Multi Uploader\n- Video Player\n- Dynamic Height & Width of Elements\n- Audio Recorder\n- Repeating Group to CSV\n- Print Pro\n- Advanced Audio Player\n- Easy File Downloader\n\nGet it here: https://zeroqode.com/bundle\n\nNEED HELP BUILDING A CUSTOM APPLICATION?\nhttps://dev.zeroqode.com\n\nSUPERCHARGE YOUR APP WITH ZEROQODE PLUGINS\nhttps://zeroqode.com/plugins\n\nQUESTIONS OR NEED HELP?\nhttps://forum.zeroqode.com",
     "image": "//s3.amazonaws.com/appforest_uf/f1667313694903x637772048431881300/giphy%20%2824%29.gif",
     "license": "open_source",
-    "link": "https://zeroqode.com/",
+    "link": "https://zeroqode.com/plugins",
     "name": "Yes or No Random",
     "plugin_instructions": "1. Install Plugin on your app.\n2. Set the location of the text to display",
-    "sa_node_version": 14
+    "sa_node_version": 18
 }

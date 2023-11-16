@@ -1,6 +1,6 @@
 {
     "category": "plugins",
-    "display": "Yes or No",
+    "display": "Yes or No (server side)",
     "fields": {
         "AAE": {
             "caption": "possibilities",

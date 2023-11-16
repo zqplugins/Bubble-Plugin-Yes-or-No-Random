@@ -6,11 +6,21 @@
         "width": 10
     },
     "display": "Yes or No",
+    "events": {
+        "AAM": {
+            "caption": "Randomize yes ",
+            "name": "randomize_yes"
+        },
+        "AAN": {
+            "caption": "Randomize no",
+            "name": "randomize_no"
+        }
+    },
     "fields": {
         "AAG": {
-            "caption": "possibilities",
+            "caption": "Possibilities",
             "default_val": 0.5,
-            "doc": "possibilities of true",
+            "doc": "Possibilities of true",
             "editor": "DynamicValue",
             "name": "possibilities",
             "rank": 0,
@@ -20,7 +30,7 @@
     "icon": "ion-android-checkbox-blank",
     "states": {
         "AAH": {
-            "caption": "yes",
+            "caption": "Yes",
             "initialization_code": {
                 "fn": "function(properties, context) {\n\n\n\n}"
             },
