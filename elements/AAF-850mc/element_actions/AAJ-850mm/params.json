@@ -1,0 +1,14 @@
+{
+    "caption": "Randomize yes or no",
+    "fields": {
+        "AAL": {
+            "caption": "Possibilities",
+            "default_val": 0.5,
+            "doc": "Possibilities of true",
+            "editor": "DynamicValue",
+            "name": "possibilities",
+            "rank": 0,
+            "value": "number"
+        }
+    }
+}

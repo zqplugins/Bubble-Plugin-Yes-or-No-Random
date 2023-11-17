@@ -1,0 +1,24 @@
+{
+    "category": "plugins",
+    "display": "Yes or No",
+    "fields": {
+        "AAE": {
+            "caption": "possibilities",
+            "default_val": 0.5,
+            "doc": "possibilities of true",
+            "editor": "DynamicValue",
+            "name": "possibilities",
+            "rank": 0,
+            "value": "number"
+        }
+    },
+    "return_value": {
+        "AAD": {
+            "caption": "result",
+            "name": "result",
+            "rank": 0,
+            "value": "boolean"
+        }
+    },
+    "type": "server_side"
+}
